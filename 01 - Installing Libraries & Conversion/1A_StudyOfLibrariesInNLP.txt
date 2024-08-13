@@ -1,0 +1,62 @@
+Aim: Study Different Libraries Used for NLP in Python
+
+#### 1. NLTK (Natural Language Toolkit)
+- **Use**: A powerful platform for building Python programs to work with human language data.
+- **Features**:
+  - Tokenization: Splits text into words or sentences.
+  - Stemming and Lemmatization: Reduces words to their base forms.
+  - Part-of-speech tagging: Identifies grammatical components.
+  - Parsing: Analyzes sentence structure.
+- **Commonly Used in**: NLP research and education.
+
+#### 2. spaCy
+- **Use**: A fast and efficient library for NLP tasks.
+- **Features**:
+  - Tokenization, part-of-speech tagging, and named entity recognition.
+  - Dependency parsing.
+  - Pre-trained word vectors.
+- **Commonly Used in**: Production environments due to its speed.
+
+#### 3. TextBlob
+- **Use**: Beginner-friendly and built on NLTK.
+- **Features**:
+  - Sentiment analysis.
+  - Part-of-speech tagging.
+  - Noun phrase extraction.
+- **Commonly Used in**: Simple NLP tasks.
+
+#### 4. Gensim
+- **Use**: Focuses on topic modeling and document similarity.
+- **Features**:
+  - Word embeddings (Word2Vec).
+  - Latent Semantic Analysis (LSA).
+  - Latent Dirichlet Allocation (LDA).
+- **Commonly Used in**: Topic modeling and semantic analysis.
+
+#### 5. VADER (Valence Aware Dictionary and Sentiment Reasoner)
+- **Use**: Specifically designed for sentiment analysis.
+- **Features**:
+  - Pre-trained lexicon for sentiment scoring.
+  - Handles sentiment intensity and context.
+- **Commonly Used in**: Sentiment analysis of social media data.
+
+#### 6. AllenNLP
+- **Use**: For deep learning-based NLP.
+- **Features**:
+  - Customizable deep learning models.
+  - Easy experimentation.
+- **Commonly Used in**: Research and custom model development.
+
+#### 7. Stanza
+- **Use**: Provides pre-trained models for various languages.
+- **Features**:
+  - Tokenization, part-of-speech tagging, and dependency parsing.
+  - Named entity recognition.
+- **Commonly Used in**: Multilingual NLP.
+
+#### 8. FastText
+- **Use**: Efficient for word embeddings.
+- **Features**:
+  - Word vectors.
+  - Text classification.
+- **Commonly Used in**: Word representation and text classification.
